@@ -1,0 +1,9 @@
+{
+  "todoApp": "https://demo.playwright.dev/todomvc",
+  "loginPage": "https://the-internet.herokuapp.com/login",
+  "checkboxPage": "https://the-internet.herokuapp.com/checkboxes",
+  "dropdownPage": "https://the-internet.herokuapp.com/dropdown",
+  "dragAndDrop": "https://the-internet.herokuapp.com/drag_and_drop",
+  "dynamicLoading": "https://the-internet.herokuapp.com/dynamic_loading",
+  "sauceDemo": "https://www.saucedemo.com"
+}

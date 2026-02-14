@@ -1,0 +1,10 @@
+{
+  "items": [
+    "Buy groceries",
+    "Clean the house",
+    "Read a book",
+    "Go for a walk",
+    "Write some code"
+  ],
+  "singleItem": "Learn Playwright"
+}
